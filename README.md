@@ -1,4 +1,4 @@
-<img align="left" width="80" height="80" src="" alt="The App for hesitant people">
+<img align="left" width="80" height="80" src="https://github.com/yngrdyn/blogit/blob/main/src/logo.png?raw=true" alt="A case study blog">
 
 # blogit
 
