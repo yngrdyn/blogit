@@ -4,7 +4,7 @@
 
 blogit is a *case study Blog* for playing around with React. This is the place if you want to check out a mix and match basic application where useContext, useReducer, router and api calls can live all together.
 
-<img src="">
+<img src="https://github.com/yngrdyn/blogit/blob/main/src/views.png?raw=true">
 
 ## Development
 _Easily set up a local development environment!_
